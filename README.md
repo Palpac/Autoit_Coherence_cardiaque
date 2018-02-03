@@ -1,5 +1,6 @@
 # Autoit_Coherence_cardiaque
 
+![screenshot](https://github.com/Palpac/Autoit_Coherence_cardiaque/blob/master/Sreenshot.jpg)
 
 Programme de cohérence cardiaque pour Autoit 3.
 
